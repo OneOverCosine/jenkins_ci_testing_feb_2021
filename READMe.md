@@ -80,4 +80,5 @@ To make sure everything's working, let's run a build.
 You can check the console output if you want, but it should be the same as earlier. Adding the webhook just means that the build is triggered when you push to the repo.
 
 # Setup for CD
-With the integration set up, we want to deploy the code to an EC2 instance.
+With the integration set up, we want to deploy the code to an EC2 instance.  
+Just a quick test for the dev branch I set up
