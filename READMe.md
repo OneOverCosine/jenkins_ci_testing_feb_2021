@@ -81,4 +81,4 @@ You can check the console output if you want, but it should be the same as earli
 
 # Setup for CD
 With the integration set up, we want to deploy the code to an EC2 instance.  
-Just a quick test for the dev branch I set up
+A test to see if updates to CI job have taken effect
