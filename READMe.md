@@ -1,4 +1,4 @@
-# Test to check deploy is working!
+# Test following failed deployment (I believe the fail was due to a change in ip)
 # Basic CI/CD with Jenkins (Guide)
 
 For the task, see [here](cicd_task.md)
