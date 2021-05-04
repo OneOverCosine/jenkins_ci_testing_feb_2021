@@ -24,7 +24,7 @@ Now we to need generate keys to use with Jenkins. The following commands are for
 3. Open the file containing the ***public*** key: `file_name.pub`
 4. In the repo, go to "Settings" --> "Deploy keys" --> "Add deploy key"
 5. Copy the contents of the public key file and paste *all of it* into the section labled "Key".
-6. Give the key a useful title and leave the "Allow write access" box unchecked.
+6. Give the key a useful title and check the "Allow write access" box.
 7. Hit "Add key"
 
 ## Jenkins
